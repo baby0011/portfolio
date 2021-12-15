@@ -1,1 +1,2 @@
 # portfolio
+The Porfolio is a exibition of my work and the effort that i put into every photo that I shot. The only problem that I faced by making the portfolio is the able to exibit only a part of my work to the portfolio and I overcame it my finally choosing the best and my favorite works from every year that I worked in the field.
