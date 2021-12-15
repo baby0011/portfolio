@@ -1,0 +1,103 @@
+a {
+        
+        display: flex;
+        color: orange;
+        list-style: none;
+        display: inline-block;
+        padding-left:610px;
+        padding-top: 0.9rem ;
+       position:absolute;
+       text-decoration: none;
+}
+.link1{
+        
+    display: flex;
+    color: orange;
+    list-style: none;
+    display: inline-block;
+    padding-left:510px;
+    padding-top: 0.9rem ;
+   position:relative;
+}
+
+
+body{
+    align-items: initial;
+    background-color:black;
+    align-items: center;
+    padding-left: 2px;
+    padding-right: 20%;
+}
+    h1{
+        font-size: 3rem;
+        color: orange;
+        padding-top: 150px;
+        padding-left:60px; ;
+    }
+h2{
+ color: black;
+ width: 160px;
+ height:30px;
+ background-color: white;
+ padding: 50px;
+ padding-left: 100px;
+ 
+}
+.name{
+    padding-left: 3.6rem; 
+}
+p{
+    color: orange;
+    padding-left: 4rem;
+    width: 250px;
+}
+.t{
+    position: relative;
+    border-left: 2px solid grey;
+    height: 700px;
+    position: absolute;
+    left: 40%;
+    margin-left: 392px;
+    top: 0;
+}
+.half{
+    position: absolute;
+    width: 500px; ;
+}
+
+img{
+    position: relative;
+ width: 500px;
+ height: 400px;
+ position: relative;
+ padding-left: 50rem;
+ padding-top: 2px;
+ padding-top: 8rem;
+}
+.two p{
+    padding-left: 50rem;
+    width: 550px;
+}
+h4{
+    color:black;
+    font-size: 1rem;
+   
+    background-color: white;
+    width: 12px;
+    height: 42px;
+    margin-left: 50rem;
+    padding-right: 7rem;
+    padding-left: 3rem;
+    padding-top: 1rem;
+}
+
+-----------------------------Portfolio---------------------------------
+.part1{
+padding-left: 0%;
+}
+img{
+    padding-left: 2px;
+}
+.photo{
+    padding-left: 50rem;
+}
